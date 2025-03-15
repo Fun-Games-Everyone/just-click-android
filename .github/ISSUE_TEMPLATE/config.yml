@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Organisation Discussions
+    url: https://github.com/orgs/Fun-Games-Everyone/discussions
+    about: Check if your question or bug report has already been reported there!
